@@ -54,6 +54,10 @@ H1 {
   display: table;
 }
 
+.clearfix h1 {
+  font-size:3vw
+}
+
 .clearfix p {
   font-size:1vw
 }
